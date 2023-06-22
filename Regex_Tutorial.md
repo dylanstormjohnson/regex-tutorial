@@ -94,6 +94,6 @@ A README about a regular expression, or regex!!
 
 ## Author
 
-- This regex tutorial was written by Dylan Storm Johnson. If you have any questions regarding this or my other projects, my GitHub account is [Dylan's GitHub account] (https://github.com/dylanstormjohnson).
+- This regex tutorial was written by Dylan Storm Johnson. If you have any questions regarding this or my other projects, my GitHub account is [Dylan's GitHub account](https://github.com/dylanstormjohnson).
 
 ---
