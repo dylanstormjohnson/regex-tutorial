@@ -6,7 +6,7 @@ A README about a regular expression, or regex!!
 - Herein lies a tutorial for a Regex, or Regular Expression, which allows for the finding of specific words or characters within a string.
 
 - The expression we will be discussing is as follows:
-  - /c(\W?)+h(\W?)+[i1l](\W?)+c(\W?)+k(\W?)+[e3](\W?)+n|p(\W?)+[o0](\W?)+n(\W?)+y(\W?)+t(\W?)+a(\W?)+[i1l](\W?)+[l1i]/i
+  - ```/c(\W?)+h(\W?)+[i1l](\W?)+c(\W?)+k(\W?)+[e3](\W?)+n|p(\W?)+[o0](\W?)+n(\W?)+y(\W?)+t(\W?)+a(\W?)+[i1l](\W?)+[l1i]/i```
 
 ## Summary
 
@@ -80,9 +80,9 @@ A README about a regular expression, or regex!!
 
 - The OR operator of "|" is mentioned in this regex expression. This allows for the checking of multiple patterns, separated by "|". The designated patterns are listed below.
 
-  -"/c(\W?)+h(\W?)+[i1l](\W?)+c(\W?)+k(\W?)+[e3](\W?)+n|": This pattern matches elements that combine to create the word "chicken" or a word in its likeness. The "|" indicates that another pattern will follow this pattern to be checked as well.
+  -```/c(\W?)+h(\W?)+[i1l](\W?)+c(\W?)+k(\W?)+[e3](\W?)+n|```: This pattern matches elements that combine to create the word "chicken" or a word in its likeness. The "|" indicates that another pattern will follow this pattern to be checked as well.
 
-  -"|p(\W?)+[o0](\W?)+n(\W?)+y(\W?)+t(\W?)+a(\W?)+[i1l](\W?)+[l1i]": This pattern matches elements that combine to create the word "ponytail" or a word in its likeness. The "|" indicates that this pattern follows another pattern and is to be checked as well.
+  -```|p(\W?)+[o0](\W?)+n(\W?)+y(\W?)+t(\W?)+a(\W?)+[i1l](\W?)+[l1i]```: This pattern matches elements that combine to create the word "ponytail" or a word in its likeness. The "|" indicates that this pattern follows another pattern and is to be checked as well.
 
 ### Flags
 
